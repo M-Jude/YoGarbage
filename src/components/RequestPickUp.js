@@ -19,7 +19,7 @@ export default function RequestPickUp(){
                <div className="topBar"></div>
                <div id="contentArea">
                		<fieldset>
-               			<label>GARBAGE</label>
+               			<label>GARBAGE TO TAKE OUT</label>
                				<div className="garData">
                					<label><p>Type</p></label><select></select>
                					<label><p>Quantity</p></label><select></select>
